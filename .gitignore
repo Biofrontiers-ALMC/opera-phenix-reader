@@ -9,5 +9,6 @@
 *.mex*
 *.mlappinstall
 *.mltbx
+*.avi
 
 codegen/
